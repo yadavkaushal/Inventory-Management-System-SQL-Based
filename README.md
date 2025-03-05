@@ -1,5 +1,4 @@
-#Inventory Management System (SQL-Based)
-
+Inventory Management System (SQL-Based)
 This project is an SQL-based Inventory Management System designed to manage suppliers, products, stock, orders, and customers efficiently.
 It includes multiple database tables and implements SQL queries such as JOINs, Aggregations, and Constraints to perform various operations.
 
